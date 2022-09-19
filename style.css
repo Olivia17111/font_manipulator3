@@ -1,0 +1,39 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 7px 7px 7px grey;
+    background-color: aquamarine;
+    font-family: 'Merriweather', serif
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+.copyright_footer {
+    position: fixed;
+    color: blueviolet;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(245, 172, 172);
+    line-height: 3;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    text-shadow: 5px 5px 5px rgb(243, 39, 202);
+    font-family: 'Rubik Moonrocks', cursive;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px ;
+    box-shadow: 5px 5px 5px rgb(99, 87, 87);
+    background-color: antiquewhite;
+}
+
+body {
+    background-position: center;
+    background-size: cover;
+}
